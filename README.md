@@ -39,6 +39,6 @@
 <br />
 
 
-[website]: https://johntzotze.com
+[website]: http://johntzotze.com
 [instagram]: https://instagram.com/johntzotze
 [linkedin]: https:/linkedin.com/in/ioannis-tzotze
