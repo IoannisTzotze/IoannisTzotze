@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://johntzotze.com)
-[![website](./img/globe-dark.svg)](https://johntzotze.com)
+[![website](./img/globe-light.svg)](http://johntzotze.com)
+[![website](./img/globe-dark.svg)](http://johntzotze.com)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https:/linkedin.com/in/ioannis-tzotze)
 [![linkedin](./img/linkedin-dark.svg)](https:/linkedin.com/in/ioannis-tzotze)
