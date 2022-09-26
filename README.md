@@ -1,11 +1,11 @@
 # Hi there, I'm Ioannis Tzotze - aka [John][website] 👋 
 
-## I'm a Husband, Developer, and Gamer!!
+## I'm a Husband, Front-End Developer, and a Gamer.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to with Companies with high Values
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play teable tennis
+- ⚡ Fun fact: I love to draw and play table tennis
 
 ### Connect with me:
 
